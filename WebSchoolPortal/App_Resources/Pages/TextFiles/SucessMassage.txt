@@ -1,0 +1,13 @@
+﻿<h1>Hello <% UserName %> and Welcome to Automated school Management System</h1>
+
+
+<p>Here is your new username and password:</p>
+
+  <p>username: <% UserName %></p>
+  <p>password: <% Password %></p>
+
+  <p>
+	For enquiries, please pay us a visit to our office, .... . If you need any help, you can find answers to questions at our FAQs Page. To contact us, either send us an email to info@automated-schools.com or call +234 818 247 7691; +234 816 356 5026.</p>
+
+  <p>Regards,<br/>Team AUTOSCHOOLS, Calabar</p>
+  <P>Powered By <br /> ALBIZZIA</P>

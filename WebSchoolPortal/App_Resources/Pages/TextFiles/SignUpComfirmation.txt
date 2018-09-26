@@ -1,0 +1,3 @@
+﻿Dear @@UserName@@,
+<br>Welcome to Automated Schools Management System.
+Please Click on this Link @@Link@@ and enter this comfirmation code @@ComCode@@ to proceed.
